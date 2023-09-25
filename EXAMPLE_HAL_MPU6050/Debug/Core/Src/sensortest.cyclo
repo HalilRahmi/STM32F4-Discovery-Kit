@@ -1,0 +1,3 @@
+../Core/Src/sensortest.c:18:6:sensorTest_init	1
+../Core/Src/sensortest.c:23:6:sensorTest_print_acc_values	1
+../Core/Src/sensortest.c:34:6:sensorTest_print_gyro_values	1

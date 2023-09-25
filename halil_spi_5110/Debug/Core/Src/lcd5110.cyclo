@@ -1,0 +1,13 @@
+../Core/Src/lcd5110.c:28:6:write_byte	1
+../Core/Src/lcd5110.c:32:6:write_cmd	1
+../Core/Src/lcd5110.c:39:6:write_data	1
+../Core/Src/lcd5110.c:46:6:lcd5110_reset	1
+../Core/Src/lcd5110.c:52:6:lcd5110_refresh	1
+../Core/Src/lcd5110.c:61:6:lcd5110_clear	1
+../Core/Src/lcd5110.c:65:6:lcd5110_pixel	4
+../Core/Src/lcd5110.c:81:6:lcd5110_box	3
+../Core/Src/lcd5110.c:91:6:lcd5110_rect	3
+../Core/Src/lcd5110.c:104:6:lcd5110_line	9
+../Core/Src/lcd5110.c:149:6:lcd_putchar	5
+../Core/Src/lcd5110.c:162:6:lcd5110_str	2
+../Core/Src/lcd5110.c:172:6:lcd5110_init	1

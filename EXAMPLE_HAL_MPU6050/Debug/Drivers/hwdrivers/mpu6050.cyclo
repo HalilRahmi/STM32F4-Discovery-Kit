@@ -1,0 +1,7 @@
+../Drivers/hwdrivers/mpu6050.c:14:17:MPU6050_initialize	3
+../Drivers/hwdrivers/mpu6050.c:32:17:MPU6050_set_gyro_range	5
+../Drivers/hwdrivers/mpu6050.c:53:17:MPU6050_set_acc_range	5
+../Drivers/hwdrivers/mpu6050.c:74:17:MPU6050_test_sensor	1
+../Drivers/hwdrivers/mpu6050.c:82:9:MPU6050_read_id	1
+../Drivers/hwdrivers/mpu6050.c:89:17:MPU6050_set_sleep_mode	2
+../Drivers/hwdrivers/mpu6050.c:108:17:MPU6050_read_data	2

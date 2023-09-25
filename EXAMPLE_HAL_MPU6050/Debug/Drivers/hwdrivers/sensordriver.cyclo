@@ -1,0 +1,9 @@
+../Drivers/hwdrivers/sensordriver.c:25:17:sensor_test_device	2
+../Drivers/hwdrivers/sensordriver.c:40:9:sensor_read_register8	2
+../Drivers/hwdrivers/sensordriver.c:54:10:sensor_read_register16	2
+../Drivers/hwdrivers/sensordriver.c:70:17:sensor_write_register8	2
+../Drivers/hwdrivers/sensordriver.c:82:17:sensor_write_register16	2
+../Drivers/hwdrivers/sensordriver.c:100:17:sensor_read_bytes	2
+../Drivers/hwdrivers/sensordriver.c:113:17:sensor_write_bytes	2
+../Drivers/hwdrivers/sensordriver.c:126:10:bytesToUint16_LittleEndian	1
+../Drivers/hwdrivers/sensordriver.c:131:10:bytesToUint16_BigEndian	1
